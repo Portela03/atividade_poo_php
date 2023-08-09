@@ -2,7 +2,7 @@
 
 class MinhaClasse
 {
-    public function ola()
+    public function teste()
     {
         return "Olá";
     }
