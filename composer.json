@@ -1,0 +1,17 @@
+{
+    "name": "admin/meu_projeto_php",
+    "description": "Meu primeiro projeto PHP usando Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\MeuProjetoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeff",
+            "email": "jeffersonlds3009@gmail.com"
+        }
+    ],
+    "require": {}
+}
